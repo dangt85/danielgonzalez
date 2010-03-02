@@ -1,0 +1,111 @@
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+Fri Feb 19 19:21:31 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Fri Feb 19 19:21:31 -0800 2010: REQUEST DATA: "GET /portfolio/\" HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nUser-Agent: Java/1.6.0_17\r\nAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\nX-Forwarded-For: 88.24.50.82\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_METHOD"=>"GET"}
+---
+Fri Feb 19 19:21:31 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Fri Feb 19 19:21:31 -0800 2010: REQUEST DATA: "GET /posts/\" HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nUser-Agent: Java/1.6.0_17\r\nAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\nX-Forwarded-For: 88.24.50.82\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_METHOD"=>"GET"}
+---
+Fri Feb 19 19:21:34 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Fri Feb 19 19:21:34 -0800 2010: REQUEST DATA: "GET /posts/1/\" HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nUser-Agent: Java/1.6.0_17\r\nAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\nX-Forwarded-For: 88.24.50.82\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_METHOD"=>"GET"}
+---
+Fri Feb 19 19:21:34 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Fri Feb 19 19:21:34 -0800 2010: REQUEST DATA: "GET /posts/1/\" HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nUser-Agent: Java/1.6.0_17\r\nAccept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\nX-Forwarded-For: 88.24.50.82\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_METHOD"=>"GET"}
+---
+** ** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid
+Sat Feb 27 23:05:06 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Sat Feb 27 23:05:06 -0800 2010: REQUEST DATA: "GET /posts/tagged_with/New Feature HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nAccept: */*\r\nFrom: googlebot(at)googlebot.com\r\nUser-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\r\nAccept-Encoding: gzip,deflate\r\nX-Forwarded-For: 66.249.71.143\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_PATH"=>"/posts/tagged_with/New", "REQUEST_URI"=>"/posts/tagged_with/New", "REQUEST_METHOD"=>"GET"}
+---
+Sun Feb 28 07:56:15 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Sun Feb 28 07:56:15 -0800 2010: REQUEST DATA: "GET /posts/tagged_with/New Feature HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nAccept: */*\r\nFrom: googlebot(at)googlebot.com\r\nUser-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\r\nAccept-Encoding: gzip,deflate\r\nX-Forwarded-For: 66.249.71.143\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_PATH"=>"/posts/tagged_with/New", "REQUEST_URI"=>"/posts/tagged_with/New", "REQUEST_METHOD"=>"GET"}
+---
+Sun Feb 28 20:17:06 -0800 2010: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+Sun Feb 28 20:17:06 -0800 2010: REQUEST DATA: "GET /posts/tagged_with/New Feature HTTP/1.1\r\nHost: 127.0.0.1:12307\r\nAccept: */*\r\nFrom: googlebot(at)googlebot.com\r\nUser-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)\r\nAccept-Encoding: gzip,deflate\r\nX-Forwarded-For: 66.249.71.143\r\nX-Forwarded-Host: www.danielgonzalez.com.ve\r\nX-Forwarded-Server: danielgonzalez.com.ve\r\nConnection: Keep-Alive\r\n\r\n"
+---
+PARAMS: {"REQUEST_PATH"=>"/posts/tagged_with/New", "REQUEST_URI"=>"/posts/tagged_with/New", "REQUEST_METHOD"=>"GET"}
+---
+** ** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:12307
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:12307
+** Writing PID file to log/mongrel.pid

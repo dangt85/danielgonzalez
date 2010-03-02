@@ -1,0 +1,957 @@
+/!\ FAILSAFE /!\  Mon Feb 08 19:32:55 -0430 2010
+  Status: 500 Internal Server Error
+  no such file to load -- mysql
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/mysql_adapter.rb:61:in `mysql_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+/!\ FAILSAFE /!\  Mon Feb 08 19:33:04 -0430 2010
+  Status: 500 Internal Server Error
+  no such file to load -- mysql
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/mysql_adapter.rb:61:in `mysql_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+/!\ FAILSAFE /!\  Mon Feb 08 19:34:53 -0430 2010
+  Status: 500 Internal Server Error
+  no such file to load -- mysql
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/mysql_adapter.rb:61:in `mysql_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+/!\ FAILSAFE /!\  Mon Feb 08 19:35:17 -0430 2010
+  Status: 500 Internal Server Error
+  126: The specified module could not be found.   - C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/mysql-2.8.1-x86-mswin32/lib/1.8/mysql_api.so
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/mysql-2.8.1-x86-mswin32/lib/1.8/mysql_api.so
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/mysql-2.8.1-x86-mswin32/lib/mysql.rb:7
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:36:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:36:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/mysql_adapter.rb:61:in `mysql_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+/!\ FAILSAFE /!\  Mon Feb 08 19:36:32 -0430 2010
+  Status: 500 Internal Server Error
+  126: The specified module could not be found.   - C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/mysql-2.8.1-x86-mswin32/lib/1.8/mysql_api.so
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/mysql-2.8.1-x86-mswin32/lib/1.8/mysql_api.so
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/mysql-2.8.1-x86-mswin32/lib/mysql.rb:7
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/mysql_adapter.rb:61:in `mysql_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    C:/Program Files/Ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    C:/Program Files/Ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:40:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+DEPRECATION WARNING: formatted_posts_path() has been deprecated. Please pass format to the standard posts_path method instead.. (called from _run_erb_app47views47layouts47application46html46erb at C:/Documents and Settings/Daniel/My Documents/Projects/test/app/views/layouts/application.html.erb:209)
+Completed in 438ms (View: 438, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:40:36) [GET]
+  [4;36;1mComment Columns (16.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mMysql::Error: query: not connected: SELECT * FROM `posts` ORDER BY created_at DESC[0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: query: not connected: SELECT * FROM `posts`  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:33:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (218.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:41:48) [GET]
+  [4;36;1mComment Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mMysql::Error: query: not connected: SELECT * FROM `posts` ORDER BY created_at DESC[0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: query: not connected: SELECT * FROM `posts`  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:33:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (141.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:43:59) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 203ms (View: 203, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:44:04) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index to rss (for 127.0.0.1 at 2010-02-08 19:44:11) [GET]
+  [4;36;1mComment Columns (16.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mMysql::Error: query: not connected: SELECT * FROM `posts` ORDER BY created_at DESC[0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: query: not connected: SELECT * FROM `posts`  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:33:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index to rss (for 127.0.0.1 at 2010-02-08 19:46:38) [GET]
+  [4;36;1mComment Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mMysql::Error: query: not connected: SELECT * FROM `posts` ORDER BY created_at DESC[0m
+
+ActiveRecord::StatementInvalid (Mysql::Error: query: not connected: SELECT * FROM `posts`  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:33:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Program Files/Ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (110.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index to rss (for 127.0.0.1 at 2010-02-08 19:48:43) [GET]
+  [4;36;1mComment Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+Rendering posts/index
+  [4;36;1mPost Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `posts`[0m
+Completed in 313ms (View: 297, DB: 0) | 200 OK [http://localhost/posts.rss]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:48:48) [GET]
+  [4;35;1mComment Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `comments`[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM `posts` ORDER BY created_at DESC LIMIT 0, 2[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;36;1mPost Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `posts`[0m
+  [4;35;1mTagging Columns (16.0ms)[0m   [0mSHOW FIELDS FROM `taggings`[0m
+  [4;36;1mTag Load (0.0ms)[0m   [0;1mSELECT `tags`.* FROM `tags` INNER JOIN `taggings` ON `tags`.id = `taggings`.tag_id WHERE ((`taggings`.taggable_type = 'Post') AND (`taggings`.taggable_id = 1)) [0m
+DEPRECATION WARNING: truncate takes an option hash instead of separate length and omission arguments. (called from _run_erb_app47views47posts47index46html46erb at C:/Documents and Settings/Daniel/My Documents/Projects/test/app/views/posts/index.html.erb:7)
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.post_id = 1 AND (status = 'approved')) [0m
+Completed in 156ms (View: 109, DB: 16) | 200 OK [http://localhost/posts]
+  [4;36;1mSQL (15.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:48:53) [GET]
+  [4;36;1mProject Load (47.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 0, 2[0m
+  [4;36;1mProject Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 125ms (View: 47, DB: 62) | 200 OK [http://localhost/portfolio]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-02-08 19:48:54) [GET]
+  [4;36;1mContact Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 1875ms (View: 1875, DB: 0) | 200 OK [http://localhost/contact]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:48:57) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:51:08) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 203ms (View: 203, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:51:10) [GET]
+  [4;36;1mComment Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM `posts` ORDER BY created_at DESC LIMIT 0, 2[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;35;1mPost Columns (16.0ms)[0m   [0mSHOW FIELDS FROM `posts`[0m
+  [4;36;1mTagging Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `taggings`[0m
+  [4;35;1mTag Load (0.0ms)[0m   [0mSELECT `tags`.* FROM `tags` INNER JOIN `taggings` ON `tags`.id = `taggings`.tag_id WHERE ((`taggings`.taggable_type = 'Post') AND (`taggings`.taggable_id = 1)) [0m
+DEPRECATION WARNING: truncate takes an option hash instead of separate length and omission arguments. (called from _run_erb_app47views47posts47index46html46erb at C:/Documents and Settings/Daniel/My Documents/Projects/danielgonzalez/app/views/posts/index.html.erb:7)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.post_id = 1 AND (status = 'approved')) [0m
+Completed in 390ms (View: 343, DB: 16) | 200 OK [http://localhost/posts]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:51:12) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 32ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:54:39) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 203ms (View: 203, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:54:40) [GET]
+  [4;36;1mComment Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM `posts` ORDER BY created_at DESC LIMIT 0, 2[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;35;1mPost Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `posts`[0m
+  [4;36;1mTagging Columns (15.0ms)[0m   [0;1mSHOW FIELDS FROM `taggings`[0m
+  [4;35;1mTag Load (0.0ms)[0m   [0mSELECT `tags`.* FROM `tags` INNER JOIN `taggings` ON `tags`.id = `taggings`.tag_id WHERE ((`taggings`.taggable_type = 'Post') AND (`taggings`.taggable_id = 1)) [0m
+DEPRECATION WARNING: truncate takes an option hash instead of separate length and omission arguments. (called from _run_erb_app47views47posts47index46html46erb at C:/Documents and Settings/Daniel/My Documents/Projects/danielgonzalez/app/views/posts/index.html.erb:7)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.post_id = 1 AND (status = 'approved')) [0m
+Completed in 375ms (View: 344, DB: 15) | 200 OK [http://localhost/posts]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:54:42) [GET]
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 0, 2[0m
+  [4;35;1mProject Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 78ms (View: 47, DB: 0) | 200 OK [http://localhost/portfolio]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:54:43) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index to rss (for 127.0.0.1 at 2010-02-08 19:54:46) [GET]
+  [4;35;1mComment Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `comments`[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+Rendering posts/index
+  [4;35;1mPost Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `posts`[0m
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/posts.rss]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:57:27) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 219ms (View: 203, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:57:29) [GET]
+  [4;36;1mComment Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `comments`[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM `posts` ORDER BY created_at DESC LIMIT 0, 2[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;35;1mPost Columns (16.0ms)[0m   [0mSHOW FIELDS FROM `posts`[0m
+  [4;36;1mTagging Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `taggings`[0m
+  [4;35;1mTag Load (0.0ms)[0m   [0mSELECT `tags`.* FROM `tags` INNER JOIN `taggings` ON `tags`.id = `taggings`.tag_id WHERE ((`taggings`.taggable_type = 'Post') AND (`taggings`.taggable_id = 1)) [0m
+DEPRECATION WARNING: truncate takes an option hash instead of separate length and omission arguments. (called from _run_erb_app47views47posts47index46html46erb at C:/Documents and Settings/Daniel/My Documents/Projects/danielgonzalez/app/views/posts/index.html.erb:7)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.post_id = 1 AND (status = 'approved')) [0m
+Completed in 390ms (View: 343, DB: 16) | 200 OK [http://localhost/posts]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:57:31) [GET]
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 0, 2[0m
+  [4;35;1mProject Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 79ms (View: 63, DB: 0) | 200 OK [http://localhost/portfolio]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:57:35) [GET]
+  Parameters: {"page"=>"2"}
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 2, 2[0m
+  [4;35;1mProject Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 63ms (View: 31, DB: 0) | 200 OK [http://localhost/portfolio?page=2]
+  [4;35;1mSQL (15.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 19:58:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 15ms (View: 15, DB: 15) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 19:58:34) [GET]
+  [4;35;1mComment Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `comments`[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM `posts` ORDER BY created_at DESC[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM `posts` ORDER BY created_at DESC LIMIT 0, 2[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;36;1mPost Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `posts`[0m
+  [4;35;1mTag Load (0.0ms)[0m   [0mSELECT `tags`.* FROM `tags` INNER JOIN `taggings` ON `tags`.id = `taggings`.tag_id WHERE ((`taggings`.taggable_type = 'Post') AND (`taggings`.taggable_id = 1)) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.post_id = 1 AND (status = 'approved')) [0m
+Completed in 62ms (View: 46, DB: 0) | 200 OK [http://localhost/posts]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:58:35) [GET]
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 0, 2[0m
+  [4;35;1mProject Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 141ms (View: 31, DB: 0) | 200 OK [http://localhost/portfolio]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:58:38) [GET]
+  Parameters: {"page"=>"2"}
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 2, 2[0m
+  [4;35;1mProject Columns (0.0ms)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 47ms (View: 31, DB: 0) | 200 OK [http://localhost/portfolio?page=2]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 19:59:29) [GET]
+  Parameters: {"page"=>"2"}
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 2, 2[0m
+  [4;36;1mProject Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 500ms (View: 469, DB: 0) | 200 OK [http://localhost/portfolio?page=2]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 20:02:34) [GET]
+  Parameters: {"page"=>"2"}
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM `projects` ORDER BY created_at DESC[0m
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM `projects` ORDER BY created_at DESC LIMIT 2, 2[0m
+  [4;36;1mProject Columns (0.0ms)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `projects` [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 141ms (View: 125, DB: 0) | 200 OK [http://localhost/portfolio?page=2]
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (62.0ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (63.0ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreatePosts (20090810001145)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mCREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "body" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090810001145')[0m
+Migrating to CreateComments (20090810001712)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mCREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "post_id" integer, "content" text, "author_name" varchar(255), "author_email" varchar(255), "author_url" varchar(255), "status" varchar(255) DEFAULT 'new', "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mCREATE INDEX "index_comments_on_post_id" ON "comments" ("post_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090810001712')[0m
+Migrating to ActsAsTaggableOnMigration (20090815232013)
+  [4;35;1mSQL (15.0ms)[0m   [0mCREATE TABLE "tags" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255)) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mCREATE TABLE "taggings" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tag_id" integer, "taggable_id" integer, "tagger_id" integer, "tagger_type" varchar(255), "taggable_type" varchar(255), "context" varchar(255), "created_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mCREATE INDEX "index_taggings_on_tag_id" ON "taggings" ("tag_id")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mCREATE INDEX "index_taggings_on_taggable_id_and_taggable_type_and_context" ON "taggings" ("taggable_id", "taggable_type", "context")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090815232013')[0m
+Migrating to CreateProjects (20090822210424)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mCREATE TABLE "projects" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "contact_email" varchar(255), "url" varchar(255), "filename" varchar(255), "description" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090822210424')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("comments")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_comments_on_post_id')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("posts")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("projects")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("taggings")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_info('index_taggings_on_taggable_id_and_taggable_type_and_context')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_info('index_taggings_on_tag_id')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("tags")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mComment Create (0.0ms)[0m   [0mINSERT INTO "comments" ("status", "updated_at", "author_name", "post_id", "content", "author_email", "author_url", "created_at") VALUES('approved', '2010-02-09 01:19:57', 'Daniel', NULL, '<object width="380" height="307"><param name="movie" value="http://www.youtube.com/v/Tfi8fT9oHkQ&hl=es_ES&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Tfi8fT9oHkQ&hl=es_ES&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="380" height="307"></embed></object>', 'contact@danielgonzalez.com.ve', 'http://www.danielgonzalez.com.ve', '2010-02-09 01:19:57')[0m
+Sent mail to dangt85@gmail.com
+
+Date: Mon, 8 Feb 2010 21:49:57 -0530
+From: Daniel <contact@danielgonzalez.com.ve>
+To: dangt85@gmail.com
+Subject: A comment has been submited
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_4b70b83e17318_7b014263a4153
+
+
+--mimepart_4b70b83e17318_7b014263a4153
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+<cite>
+  <a href=3D"&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6f%6e%74%61%63%7=
+4@%64%61%6e%69%65%6c%67%6f%6e%7a%61%6c%65%7a.%63%6f%6d.%76%65">Daniel</a>=
+ says:<br />
+  <span class=3D"comment-data">
+    February 9th, 2010
+  </span>
+</cite>
+<div class=3D"comment-text">
+  <p>&lt;object width=3D&quot;380&quot; height=3D&quot;307&quot;&gt;&lt;p=
+aram name=3D&quot;movie&quot; value=3D&quot;http://www.youtube.com/v/Tfi8=
+fT9oHkQ&amp;hl=3Des_ES&amp;fs=3D1&amp;&quot;&gt;&lt;/param&gt;&lt;param n=
+ame=3D&quot;allowFullScreen&quot; value=3D&quot;true&quot;&gt;&lt;/param&=
+gt;&lt;param name=3D&quot;allowscriptaccess&quot; value=3D&quot;always&qu=
+ot;&gt;&lt;/param&gt;&lt;embed src=3D&quot;http://www.youtube.com/v/Tfi8f=
+T9oHkQ&amp;hl=3Des_ES&amp;fs=3D1&amp;&quot; type=3D&quot;application/x-sh=
+ockwave-flash&quot; allowscriptaccess=3D&quot;always&quot; allowfullscree=
+n=3D&quot;true&quot; width=3D&quot;380&quot; height=3D&quot;307&quot;&gt;=
+&lt;/embed&gt;&lt;/object&gt;</p>
+</div>=
+
+--mimepart_4b70b83e17318_7b014263a4153--
+Sent mail to Daniel <contact@danielgonzalez.com.ve>
+
+Date: Mon, 8 Feb 2010 21:49:59 -0530
+From: =?utf-8?Q?Daniel_Gonz=C3=A1lez?= <contact@danielgonzalez.com.ve>
+To: Daniel <contact@danielgonzalez.com.ve>
+Subject: Your comment has been recieved
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_4b70b83f22ab0_7b014263a4351
+
+
+--mimepart_4b70b83f22ab0_7b014263a4351
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+<cite>
+  Hello <a href=3D"&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6f%6e%74%6=
+1%63%74@%64%61%6e%69%65%6c%67%6f%6e%7a%61%6c%65%7a.%63%6f%6d.%76%65">Dani=
+el</a>.
+  I received a comment from you on <span class=3D"comment-data">
+    February 9th, 2010
+  </span>.
+</cite>
+
+<div class=3D"comment-text">
+  Your comment was:<br />
+  <p>&lt;object width=3D&quot;380&quot; height=3D&quot;307&quot;&gt;&lt;p=
+aram name=3D&quot;movie&quot; value=3D&quot;http://www.youtube.com/v/Tfi8=
+fT9oHkQ&amp;hl=3Des_ES&amp;fs=3D1&amp;&quot;&gt;&lt;/param&gt;&lt;param n=
+ame=3D&quot;allowFullScreen&quot; value=3D&quot;true&quot;&gt;&lt;/param&=
+gt;&lt;param name=3D&quot;allowscriptaccess&quot; value=3D&quot;always&qu=
+ot;&gt;&lt;/param&gt;&lt;embed src=3D&quot;http://www.youtube.com/v/Tfi8f=
+T9oHkQ&amp;hl=3Des_ES&amp;fs=3D1&amp;&quot; type=3D&quot;application/x-sh=
+ockwave-flash&quot; allowscriptaccess=3D&quot;always&quot; allowfullscree=
+n=3D&quot;true&quot; width=3D&quot;380&quot; height=3D&quot;307&quot;&gt;=
+&lt;/embed&gt;&lt;/object&gt;</p>
+</div>
+
+<p>
+  It will be reviewed for approval soon, so stay tuned for confimation.<b=
+r />
+  Thank you very much for visiting my website!
+</p>
+
+--mimepart_4b70b83f22ab0_7b014263a4351--
+  [4;36;1mPost Create (0.0ms)[0m   [0;1mINSERT INTO "posts" ("updated_at", "title", "body", "created_at") VALUES('2010-02-09 01:20:00', 'The Begining Of All Things To Come', 'This is my first post ever, so I will try to cut to the chase. I have built this personal website with the help of my great friend Ruby On Rails. I used a great CSS template to get started and began to add some nice features such as Google Analytics, Re-captcha, a simple blog with pagination and a contact form with a mailer. I will be doing more improvements and continue to add some other very nice features as the time lets me. So giggity giggity, giggity goo... Stick around!', '2010-02-09 01:20:00')[0m
+  [4;35;1mComment Update (0.0ms)[0m   [0mUPDATE "comments" SET "updated_at" = '2010-02-09 01:20:00', "post_id" = 1 WHERE "id" = 1[0m
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM "posts" LIMIT 1[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM "posts" LIMIT 1[0m
+  [4;36;1mComment Load (0.0ms)[0m   [0;1mSELECT * FROM "comments" WHERE ("comments".post_id = 1) ORDER BY created_at ASC[0m
+  [4;35;1mProject Create (0.0ms)[0m   [0mINSERT INTO "projects" ("name", "updated_at", "url", "description", "contact_email", "filename", "created_at") VALUES('CrediXperto - ConsulCredit C.A.', '2010-02-09 01:20:56', 'http://www.credixperto.com', 'Create, update, and maintain website pages using xHTML, JavaScript, and PHP/Drupal. Coordinate with producers and designers for major site changes. Maintain internal tools for managing site structure using PHP/Drupal tools. Work with third-party providers to ingest and integrate new modules, and generate content for use on ?intranet? web site. Assist with security testing, content administration, and Search Engine Optimization. Provide technical support for usability issues and critical site problems, as needed.', 'asunciontb@credixperto.com', 'credixperto.jpg', '2010-02-09 01:20:56')[0m
+  [4;36;1mProject Create (0.0ms)[0m   [0;1mINSERT INTO "projects" ("name", "updated_at", "url", "description", "contact_email", "filename", "created_at") VALUES('Instituto Nacional de Tránsito y Transporte Terrestre', '2010-02-09 01:20:56', 'http://seat.googlecode.com', 'Lead developer for support web site for register, audit and report generation on traffic accidents. Utilized contemporary design to create concise web site for specific client needs. Site creation included use of CSS, HTML, JavaScript, MySQL, and PHP. Incorporated pre-assembled web graphics, including logos and advertisements. Cross-browser compatibility checks and W3C web standards insurance.', 'voxiro16@gmail.com', 'seat-intt.jpg', '2010-02-09 01:20:56')[0m
+  [4;35;1mProject Create (0.0ms)[0m   [0mINSERT INTO "projects" ("name", "updated_at", "url", "description", "contact_email", "filename", "created_at") VALUES('Muebles y Tabiques Calvo S.R.L.', '2010-02-09 01:20:56', 'http://www.mytcalvo.com', 'Website advertising: Technical Direction - Creative Direction - PHP Programming - Database Design - MySQL Database - Layout XHTML - CSS 2.1; Internal system for recording and updating of data and Wall partition Furniture: Technical Direction - Creative Direction - PHP Programming - Database Design - MySQL Database - Layout XHTML - CSS 2.1
+
+Intranet - Sistema de Acceso Restringuido
+
+Intranet - Restrict Access System', 'voxiro16@gmail.com', 'mytcalvo.jpg', '2010-02-09 01:20:56')[0m
+  [4;36;1mProject Create (0.0ms)[0m   [0;1mINSERT INTO "projects" ("name", "updated_at", "url", "description", "contact_email", "filename", "created_at") VALUES('SISVOX', '2010-02-09 01:20:57', 'http://www.sisvox.com', 'Guidelines SISVOX website where you submit the work, client portfolio, news of interest, among others.', 'ccalvo@sisvox.com', 'sisvox.jpg', '2010-02-09 01:20:57')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-08 20:52:48) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 125ms (View: 125, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 20:52:52) [GET]
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM "posts" ORDER BY created_at DESC[0m
+  [4;35;1mPost Load (0.0ms)[0m   [0mSELECT * FROM "posts" ORDER BY created_at DESC LIMIT 2 OFFSET 0[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;36;1mTag Load (0.0ms)[0m   [0;1mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_type = 'Post') AND ("taggings".taggable_id = 1)) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "comments" WHERE ("comments".post_id = 1 AND (status = 'approved')) [0m
+Completed in 469ms (View: 437, DB: 0) | 200 OK [http://localhost/posts]
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-02-08 20:53:09) [GET]
+  [4;36;1mPost Load (0.0ms)[0m   [0;1mSELECT * FROM "posts" ORDER BY created_at DESC[0m
+  [4;35;1mPost Load (16.0ms)[0m   [0mSELECT * FROM "posts" ORDER BY created_at DESC LIMIT 2 OFFSET 0[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;36;1mTag Load (0.0ms)[0m   [0;1mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_type = 'Post') AND ("taggings".taggable_id = 1)) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "comments" WHERE ("comments".post_id = 1 AND (status = 'approved')) [0m
+Completed in 63ms (View: 31, DB: 16) | 200 OK [http://localhost/posts]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 20:53:13) [GET]
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM "projects" ORDER BY created_at DESC[0m
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM "projects" ORDER BY created_at DESC LIMIT 2 OFFSET 0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "projects" [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 78ms (View: 47, DB: 0) | 200 OK [http://localhost/portfolio]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 20:53:18) [GET]
+  Parameters: {"page"=>"2"}
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM "projects" ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM "projects" ORDER BY created_at DESC LIMIT 2 OFFSET 2[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "projects" [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 63ms (View: 31, DB: 0) | 200 OK [http://localhost/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 20:53:26) [GET]
+  Parameters: {"page"=>"1"}
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM "projects" ORDER BY created_at DESC[0m
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM "projects" ORDER BY created_at DESC LIMIT 2 OFFSET 0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "projects" [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 62ms (View: 31, DB: 0) | 200 OK [http://localhost/portfolio?page=1]
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-02-08 20:53:35) [GET]
+  Parameters: {"page"=>"2"}
+  [4;35;1mProject Load (0.0ms)[0m   [0mSELECT * FROM "projects" ORDER BY created_at DESC[0m
+  [4;36;1mProject Load (0.0ms)[0m   [0;1mSELECT * FROM "projects" ORDER BY created_at DESC LIMIT 2 OFFSET 2[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "projects" [0m
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 62ms (View: 47, DB: 0) | 200 OK [http://localhost/portfolio?page=2]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-26 18:32:41) [GET]
+  [4;36;1mPost Load (0.7ms)[0m   [0;1mSELECT * FROM "posts" ORDER BY created_at DESC[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;35;1mTag Load (0.6ms)[0m   [0mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 2) AND ("taggings".taggable_type = 'Post')) [0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "comments" WHERE ("comments".post_id = 2 AND (status = 'approved')) [0m
+  [4;35;1mTag Load (0.4ms)[0m   [0mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 1) AND ("taggings".taggable_type = 'Post')) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "comments" WHERE ("comments".post_id = 1 AND (status = 'approved')) [0m
+
+ActionView::TemplateError (undefined method `total_pages' for #<Array:0x2b1a66fc54f8>) on line #18 of app/views/posts/index.html.erb:
+15:   </p>
+16: <% end %>
+17: 
+18: <%= will_paginate @posts %>
+19: 
+20: <div class="clear">&nbsp;</div>
+
+    app/views/posts/index.html.erb:18
+
+Rendered rescues/_trace (103.3ms)
+Rendered rescues/_request_and_response (1.5ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PostsController#index (for 127.0.0.1 at 2010-03-01 20:21:14) [GET]
+  [4;36;1mPost Load (0.6ms)[0m   [0;1mSELECT * FROM "posts" ORDER BY created_at DESC[0m
+Rendering template within layouts/application
+Rendering posts/index
+  [4;35;1mTag Load (0.5ms)[0m   [0mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 2) AND ("taggings".taggable_type = 'Post')) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "comments" WHERE ("comments".post_id = 2 AND (status = 'approved')) [0m
+  [4;35;1mTag Load (0.4ms)[0m   [0mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 1) AND ("taggings".taggable_type = 'Post')) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "comments" WHERE ("comments".post_id = 1 AND (status = 'approved')) [0m
+Completed in 201ms (View: 187, DB: 2) | 200 OK [http://localhost/posts]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-03-01 20:21:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 24ms (View: 21, DB: 0) | 200 OK [http://localhost/]

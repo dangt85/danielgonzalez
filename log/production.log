@@ -1,0 +1,1800 @@
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:33:49) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 21ms (View: 20, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:34:32) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:34:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 8, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-09 15:34:50) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 108ms (View: 91, DB: 12) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 201.208.12.163 at 2010-02-09 15:34:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 20ms (View: 17, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:35:04) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 16ms (View: 11, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:37:42) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:38:13) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:38:31) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:47:53) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 66ms (View: 63, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:48:04) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:48:15) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:48:22) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:48:41) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:48:48) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing ContactsController#new (for 201.208.12.163 at 2010-02-09 15:49:26) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:49:29) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:50:37) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-09 15:51:07) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:51:25) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-09 15:51:44) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-09 15:51:48) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 201.208.12.163 at 2010-02-09 15:51:52) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:52:43) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 92ms (View: 92, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-09 15:52:52) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 15ms (View: 12, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 201.208.12.163 at 2010-02-09 15:52:54) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 18ms (View: 15, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-09 15:54:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 200.35.197.71 at 2010-02-09 17:24:31) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 200.35.197.71 at 2010-02-09 17:35:43) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 201.243.174.134 at 2010-02-10 06:46:55) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 39ms (View: 39, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.243.174.134 at 2010-02-10 06:48:18) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 374ms (View: 10, DB: 362) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 201.243.174.134 at 2010-02-10 06:48:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing ProjectsController#index (for 201.243.174.134 at 2010-02-10 06:48:47) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 201.243.174.134 at 2010-02-10 06:49:05) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.243.174.134 at 2010-02-10 06:49:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 200.44.243.17 at 2010-02-10 12:03:05) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 200.44.243.17 at 2010-02-10 12:03:24) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 36ms (View: 9, DB: 26) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 66.249.71.248 at 2010-02-10 14:47:05) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 102ms (View: 99, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 66.249.71.248 at 2010-02-10 17:23:03) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-11 16:36:31) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1929ms (View: 1834, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-11 16:37:03) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 1185ms (View: 934, DB: 140) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-11 16:37:15) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 68ms (View: 31, DB: 13) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-11 16:37:19) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 65ms (View: 45, DB: 18) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 201.208.12.163 at 2010-02-11 16:37:30) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 109ms (View: 108, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing ProjectsController#index (for 66.249.71.248 at 2010-02-11 21:11:56) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 130ms (View: 49, DB: 46) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 66.249.71.248 at 2010-02-11 21:16:54) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 511ms (View: 444, DB: 59) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing HomeController#index (for 66.249.71.175 at 2010-02-12 13:37:45) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 219ms (View: 219, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 66.249.71.175 at 2010-02-14 13:16:00) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 3459ms (View: 2434, DB: 397) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ContactsController#new (for 66.249.71.175 at 2010-02-14 13:22:23) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 1185ms (View: 1057, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing PostsController#index (for 66.249.71.175 at 2010-02-15 13:40:55) [GET]
+  Parameters: {"tag"=>"General"}
+
+NoMethodError (undefined method `tagged_with' for #<Class:0x2accadb397b0>):
+  app/controllers/posts_controller.rb:28:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing PostsController#index (for 67.195.111.220 at 2010-02-15 14:29:41) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 1744ms (View: 1568, DB: 108) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ContactsController#new (for 67.195.111.220 at 2010-02-15 14:32:53) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 12397ms (View: 12352, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 186.14.47.101 at 2010-02-16 15:11:18) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7087ms (View: 6101, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 186.14.47.101 at 2010-02-16 15:16:55) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1643ms (View: 1563, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 186.14.47.101 at 2010-02-16 15:20:41) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 1973ms (View: 1248, DB: 324) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing HomeController#index (for 64.246.165.200 at 2010-02-16 16:21:28) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 436ms (View: 428, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 66.249.71.242 at 2010-02-16 16:26:48) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 581ms (View: 303, DB: 150) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing HomeController#index (for 67.191.53.249 at 2010-02-16 19:30:55) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 375ms (View: 342, DB: 0) | 200 OK [http://danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-17 13:59:05) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 720ms (View: 720, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 190.204.212.198 at 2010-02-17 19:00:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1053ms (View: 1034, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 190.204.212.198 at 2010-02-17 19:00:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 303ms (View: 296, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 190.204.212.198 at 2010-02-17 19:00:56) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 808ms (View: 700, DB: 63) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 190.204.212.198 at 2010-02-17 19:01:00) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 842ms (View: 716, DB: 83) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 190.204.212.198 at 2010-02-17 19:01:06) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 2848ms (View: 2823, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 190.204.212.198 at 2010-02-17 19:01:14) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 798ms (View: 782, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 190.204.212.198 at 2010-02-17 19:04:39) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 402ms (View: 402, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 190.204.212.198 at 2010-02-17 19:05:07) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 714ms (View: 680, DB: 17) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 190.38.111.94 at 2010-02-17 19:23:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 628ms (View: 628, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 190.38.111.94 at 2010-02-17 19:34:54) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 19207ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 190.75.212.57 at 2010-02-17 19:48:43) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 190.75.212.57 at 2010-02-17 19:49:20) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 190.75.212.57 at 2010-02-17 19:49:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 91ms (View: 42, DB: 48) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing ProjectsController#index (for 190.75.212.57 at 2010-02-17 19:49:49) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 190.75.212.57 at 2010-02-17 19:49:58) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 190.75.212.57 at 2010-02-17 19:50:15) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing HomeController#index (for 201.209.32.51 at 2010-02-17 22:29:59) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 201.209.32.51 at 2010-02-17 22:30:36) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 190.72.142.221 at 2010-02-18 04:08:31) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 67.195.111.220 at 2010-02-18 05:30:31) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 227ms (View: 227, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index to rss (for 67.195.111.220 at 2010-02-18 05:32:34) [GET]
+Rendering posts/index
+Completed in 905ms (View: 665, DB: 239) | 200 OK [http://www.danielgonzalez.com.ve/posts.rss]
+
+
+Processing HomeController#index (for 201.211.162.128 at 2010-02-18 05:35:00) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 201.211.162.128 at 2010-02-18 05:35:14) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 92ms (View: 8, DB: 83) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 201.211.162.128 at 2010-02-18 05:35:25) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 399ms (View: 398, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.211.162.128 at 2010-02-18 05:35:33) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 8, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.211.162.128 at 2010-02-18 05:35:45) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 128ms (View: 9, DB: 117) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-18 05:44:20) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 190.75.88.222 at 2010-02-18 06:03:15) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 182ms (View: 181, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 190.75.88.222 at 2010-02-18 06:05:33) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 289ms (View: 75, DB: 213) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 66.249.71.195 at 2010-02-18 10:23:51) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 123ms (View: 95, DB: 27) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 69.162.103.186 at 2010-02-18 19:04:14) [GET]
+  Parameters: {"page"=>"http://dougx.sytes.net/on.txt?"}
+
+WillPaginate::InvalidPage ("http://dougx.sytes.net/on.txt?" given as value, which translates to '0' as page number):
+  app/controllers/projects_controller.rb:8:in `index'
+  app/controllers/projects_controller.rb:6:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/404.html (404 Not Found)
+
+
+Processing ProjectsController#index (for 67.195.111.220 at 2010-02-19 02:20:01) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 40ms (View: 22, DB: 17) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 190.199.175.219 at 2010-02-19 11:54:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 12827ms (View: 11159, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 190.199.175.219 at 2010-02-19 11:58:50) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 8935ms (View: 5605, DB: 1091) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 190.199.175.219 at 2010-02-19 11:59:10) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 4740ms (View: 4219, DB: 265) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 190.199.175.219 at 2010-02-19 11:59:27) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 2873ms (View: 2480, DB: 295) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing HomeController#index (for 206.53.153.216 at 2010-02-19 16:13:07) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1733ms (View: 1730, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 88.24.50.82 at 2010-02-19 19:20:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 412ms (View: 412, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index to rss (for 88.24.50.82 at 2010-02-19 19:20:27) [GET]
+Rendering posts/index
+Completed in 1685ms (View: 1134, DB: 12) | 200 OK [http://www.danielgonzalez.com.ve/posts.rss]
+
+
+Processing ContactsController#new (for 88.24.50.82 at 2010-02-19 19:20:30) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 49112ms (View: 48794, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing ProjectsController#index (for 88.24.50.82 at 2010-02-19 19:21:28) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 36ms (View: 17, DB: 17) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 88.24.50.82 at 2010-02-19 19:21:28) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 25ms (View: 23, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 88.24.50.82 at 2010-02-19 19:21:29) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 25ms (View: 23, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 88.24.50.82 at 2010-02-19 19:21:29) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 61ms (View: 58, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing PostsController#index (for 88.24.50.82 at 2010-02-19 19:21:30) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 256ms (View: 200, DB: 55) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 88.24.50.82 at 2010-02-19 19:21:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 490ms (View: 36, DB: 453) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing ProjectsController#index (for 66.249.71.236 at 2010-02-20 03:35:45) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 232ms (View: 47, DB: 183) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 66.249.71.236 at 2010-02-20 03:52:32) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing HomeController#index (for 190.200.167.119 at 2010-02-20 07:16:04) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 149ms (View: 148, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 190.200.167.119 at 2010-02-20 07:16:39) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 195ms (View: 10, DB: 183) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 190.200.167.119 at 2010-02-20 07:16:42) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 100ms (View: 98, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 190.200.167.119 at 2010-02-20 07:16:45) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 118ms (View: 117, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 190.200.167.119 at 2010-02-20 07:16:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 315ms (View: 293, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 66.249.71.236 at 2010-02-20 07:17:07) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 66.249.71.236 at 2010-02-21 01:12:26) [GET]
+  Parameters: {"tag"=>"General"}
+
+NoMethodError (undefined method `tagged_with' for #<Class:0x2accadb397b0>):
+  app/controllers/posts_controller.rb:28:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing ProjectsController#index (for 174.129.93.177 at 2010-02-21 08:17:09) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13565ms (View: 5923, DB: 2795) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing PostsController#index (for 66.249.71.236 at 2010-02-21 10:18:51) [GET]
+  Parameters: {"tag"=>"General"}
+
+NoMethodError (undefined method `tagged_with' for #<Class:0x2accadb397b0>):
+  app/controllers/posts_controller.rb:28:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing ProjectsController#index (for 66.249.71.236 at 2010-02-21 19:13:10) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 1500ms (View: 1000, DB: 206) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing PostsController#index to rss (for 216.145.17.190 at 2010-02-21 20:30:46) [GET]
+Rendering posts/index
+Completed in 1926ms (View: 1475, DB: 28) | 200 OK [http://www.danielgonzalez.com.ve/posts.rss]
+
+
+Processing ContactsController#new (for 66.249.71.236 at 2010-02-21 21:44:15) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 1101ms (View: 1076, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing PostsController#index (for 66.249.71.236 at 2010-02-21 23:53:41) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 1058ms (View: 946, DB: 80) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-22 04:07:30) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 1511ms (View: 1226, DB: 224) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-22 04:14:23) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 2454ms (View: 1885, DB: 89) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-22 04:14:26) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 2592ms (View: 2142, DB: 214) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-22 04:14:45) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 2376ms (View: 1971, DB: 249) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing ContactsController#new (for 75.101.179.141 at 2010-02-22 04:14:56) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 1363ms (View: 1358, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-22 06:18:55) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1238ms (View: 984, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-22 06:29:16) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 43507ms (View: 43300, DB: 39) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ContactsController#new (for 220.255.7.13 at 2010-02-22 10:20:29) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 140ms (View: 140, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing PostsController#index to rss (for 220.255.7.13 at 2010-02-22 10:20:30) [GET]
+Rendering posts/index
+Completed in 132ms (View: 4, DB: 128) | 200 OK [http://www.danielgonzalez.com.ve/posts.rss]
+
+
+Processing PostsController#index (for 220.255.7.13 at 2010-02-22 10:20:33) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 106ms (View: 9, DB: 96) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#index to rss (for 220.255.7.13 at 2010-02-22 10:20:36) [GET]
+Rendering posts/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/posts.rss]
+
+
+Processing HomeController#index (for 220.255.7.13 at 2010-02-22 10:20:38) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 220.255.7.13 at 2010-02-22 10:20:44) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 69.162.103.186 at 2010-02-22 11:45:46) [GET]
+  Parameters: {"page"=>"../../../../../../../../../../proc/self/environ"}
+
+WillPaginate::InvalidPage ("../../../../../../../../../../proc/self/environ" given as value, which translates to '0' as page number):
+  app/controllers/projects_controller.rb:8:in `index'
+  app/controllers/projects_controller.rb:6:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/404.html (404 Not Found)
+
+
+Processing HomeController#index (for 200.8.56.15 at 2010-02-22 15:18:24) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 23ms (View: 23, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 200.8.56.15 at 2010-02-22 15:25:54) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 53ms (View: 20, DB: 32) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 200.8.56.15 at 2010-02-22 15:26:26) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 118ms (View: 31, DB: 87) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing ProjectsController#index (for 200.8.56.15 at 2010-02-22 15:27:51) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13ms (View: 10, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 200.8.56.15 at 2010-02-22 15:28:05) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing ProjectsController#index (for 59.167.252.159 at 2010-02-22 15:32:06) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 60ms (View: 56, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing HomeController#index (for 201.208.222.103 at 2010-02-22 15:34:54) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 63ms (View: 63, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 201.208.222.103 at 2010-02-22 15:35:34) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 77ms (View: 9, DB: 15) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 201.208.222.103 at 2010-02-22 15:38:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.222.103 at 2010-02-22 15:38:44) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 201.208.222.103 at 2010-02-22 15:38:53) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 201.208.222.103 at 2010-02-22 15:38:56) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 11ms (View: 11, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 190.199.160.102 at 2010-02-22 16:45:51) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 190.199.160.102 at 2010-02-22 16:46:22) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 76ms (View: 8, DB: 67) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 190.199.160.102 at 2010-02-22 16:46:41) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 190.199.160.102 at 2010-02-22 16:46:51) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 190.199.160.102 at 2010-02-22 16:47:06) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing HomeController#index (for 150.185.75.17 at 2010-02-22 17:25:45) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-22 17:37:32) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 69.162.103.186 at 2010-02-22 19:46:41) [GET]
+  Parameters: {"page"=>"http://doug2.sytes.net/on.txt?"}
+
+WillPaginate::InvalidPage ("http://doug2.sytes.net/on.txt?" given as value, which translates to '0' as page number):
+  app/controllers/projects_controller.rb:8:in `index'
+  app/controllers/projects_controller.rb:6:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/404.html (404 Not Found)
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-23 05:10:32) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 220ms (View: 220, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-23 05:10:58) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-23 05:11:01) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ContactsController#new (for 201.208.12.163 at 2010-02-23 05:22:20) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 84ms (View: 83, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-23 05:22:22) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-23 05:22:25) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 94ms (View: 12, DB: 80) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 207.193.204.56 at 2010-02-23 08:54:04) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 187ms (View: 26, DB: 159) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 207.193.204.56 at 2010-02-23 08:54:11) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13ms (View: 9, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 75.101.214.118 at 2010-02-23 16:34:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 202.95.200.13 at 2010-02-23 17:49:22) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 56ms (View: 30, DB: 25) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing PostsController#index (for 66.249.71.239 at 2010-02-24 00:27:09) [GET]
+  Parameters: {"tag"=>"General"}
+
+NoMethodError (undefined method `tagged_with' for #<Class:0x2accadb397b0>):
+  app/controllers/posts_controller.rb:28:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing HomeController#index (for 174.129.72.244 at 2010-02-24 10:11:01) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 14018ms (View: 12864, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 66.249.71.239 at 2010-02-24 11:21:49) [GET]
+  Parameters: {"tag"=>"General"}
+
+NoMethodError (undefined method `tagged_with' for #<Class:0x2accadb397b0>):
+  app/controllers/posts_controller.rb:28:in `index'
+  app/controllers/posts_controller.rb:25:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 15:45:48) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 2024ms (View: 2015, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 150.185.75.17 at 2010-02-24 15:56:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1440ms (View: 1419, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 190.74.235.49 at 2010-02-24 17:04:22) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 5703ms (View: 5684, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 190.74.235.49 at 2010-02-24 17:04:30) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4930ms (View: 4916, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:29:40) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1911ms (View: 1436, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ContactsController#new (for 201.208.12.163 at 2010-02-24 17:29:46) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 6960ms (View: 6713, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-24 17:31:05) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 49175ms (View: 48154, DB: 141) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-24 17:33:22) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 39ms (View: 35, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-24 17:40:36) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 14ms (View: 10, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-24 17:40:40) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 159ms (View: 155, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:41:22) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 84ms (View: 82, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:56:01) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 8, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-24 17:56:26) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 595ms (View: 589, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#reload (for 201.208.12.163 at 2010-02-24 17:56:31) [POST]
+  Parameters: {"authenticity_token"=>"7el08DwXRatcPLJSBCrc2VcUcHr+6xfq2OxUpjxYTfk="}
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/posts/reload]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:56:37) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 90ms (View: 90, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-24 17:56:44) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 14ms (View: 11, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#reload (for 201.208.12.163 at 2010-02-24 17:56:47) [POST]
+  Parameters: {"authenticity_token"=>"7el08DwXRatcPLJSBCrc2VcUcHr+6xfq2OxUpjxYTfk="}
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/posts/reload]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-24 17:57:23) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 15ms (View: 12, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#reload (for 201.208.12.163 at 2010-02-24 17:57:26) [POST]
+  Parameters: {"authenticity_token"=>"7el08DwXRatcPLJSBCrc2VcUcHr+6xfq2OxUpjxYTfk="}
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/posts/reload]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:57:29) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 8, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:58:13) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:58:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 17:58:44) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 20ms (View: 19, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 18:02:43) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 18:02:49) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-24 18:03:09) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-24 18:04:04) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 31ms (View: 26, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-24 21:18:17) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 260ms (View: 254, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-24 21:18:34) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-24 21:18:34) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 9, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing PostsController#index (for 75.101.179.141 at 2010-02-24 21:18:35) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 41ms (View: 9, DB: 32) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 75.101.179.141 at 2010-02-24 21:38:41) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 8, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 67.202.2.164 at 2010-02-25 01:40:41) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 67.195.114.224 at 2010-02-25 05:32:02) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-26 05:09:16) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 18404ms (View: 16554, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 66.249.71.143 at 2010-02-26 15:39:30) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12061ms (View: 6772, DB: 1556) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing HomeController#index (for 66.249.71.143 at 2010-02-26 16:15:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1374ms (View: 1360, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-26 18:31:47) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 137ms (View: 135, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-26 18:32:03) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+
+ActionView::TemplateError (undefined method `total_pages' for #<Array:0x2b81cbd655b0>) on line #18 of app/views/posts/index.html.erb:
+15:   </p>
+16: <% end %>
+17: 
+18: <%= will_paginate @posts %>
+19: 
+20: <div class="clear">&nbsp;</div>
+
+    app/views/posts/index.html.erb:18
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:32:07) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 139ms (View: 16, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:32:16) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:32:18) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-26 18:32:25) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+
+ActionView::TemplateError (undefined method `total_pages' for #<Array:0x2b81cd3aa730>) on line #18 of app/views/posts/index.html.erb:
+15:   </p>
+16: <% end %>
+17: 
+18: <%= will_paginate @posts %>
+19: 
+20: <div class="clear">&nbsp;</div>
+
+    app/views/posts/index.html.erb:18
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-02-26 18:33:18) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 48ms (View: 43, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 201.208.12.163 at 2010-02-26 18:33:25) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 24ms (View: 22, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts/2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:33:30) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 62ms (View: 12, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:17) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:23) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13ms (View: 11, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:26) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:28) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13ms (View: 11, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:30) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 23ms (View: 10, DB: 11) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:33) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 11ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-02-26 18:34:34) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ContactsController#new (for 201.208.12.163 at 2010-02-26 18:35:10) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-26 18:35:30) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 66.249.71.143 at 2010-02-26 23:25:21) [GET]
+  Parameters: {"tag"=>"General"}
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: ambiguous column name: created_at: SELECT DISTINCT posts.* FROM "posts"  INNER JOIN taggings posts_taggings ON posts_taggings.taggable_id = posts.id AND posts_taggings.taggable_type = 'Post' INNER JOIN tags posts_tags ON posts_tags.id = posts_taggings.tag_id WHERE ((posts_tags.name LIKE 'General'))  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:29:in `index'
+  app/controllers/posts_controller.rb:26:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing HomeController#index (for 64.246.165.200 at 2010-02-27 03:59:35) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 41ms (View: 41, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 66.249.71.143 at 2010-02-27 05:30:49) [GET]
+  Parameters: {"tag"=>"General"}
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: ambiguous column name: created_at: SELECT DISTINCT posts.* FROM "posts"  INNER JOIN taggings posts_taggings ON posts_taggings.taggable_id = posts.id AND posts_taggings.taggable_type = 'Post' INNER JOIN tags posts_tags ON posts_tags.id = posts_taggings.tag_id WHERE ((posts_tags.name LIKE 'General'))  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:29:in `index'
+  app/controllers/posts_controller.rb:26:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing HomeController#index (for 202.184.124.19 at 2010-02-27 08:46:20) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 202.184.124.19 at 2010-02-27 08:47:10) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 276ms (View: 15, DB: 259) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 202.184.124.19 at 2010-02-27 08:47:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 15ms (View: 13, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts/1]
+
+
+Processing ProjectsController#index (for 202.184.124.19 at 2010-02-27 08:47:59) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing HomeController#index (for 202.184.124.19 at 2010-02-27 08:48:11) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 202.184.124.19 at 2010-02-27 08:48:43) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 16ms (View: 13, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 202.184.124.19 at 2010-02-27 08:48:54) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing PostsController#index (for 202.184.124.19 at 2010-02-27 08:49:04) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 12ms (View: 11, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 66.249.71.143 at 2010-02-27 16:45:15) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 112ms (View: 16, DB: 94) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ContactsController#new (for 66.249.71.143 at 2010-02-27 19:25:29) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing PostsController#index (for 66.249.71.143 at 2010-02-27 19:42:10) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 120ms (View: 67, DB: 52) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#show (for 66.249.71.143 at 2010-02-27 21:44:09) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/application
+Rendering posts/show
+Completed in 58ms (View: 16, DB: 41) | 200 OK [http://www.danielgonzalez.com.ve/posts/2]
+
+
+Processing PostsController#index (for 66.249.71.143 at 2010-02-27 23:04:03) [GET]
+  Parameters: {"tag"=>"General"}
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: ambiguous column name: created_at: SELECT DISTINCT posts.* FROM "posts"  INNER JOIN taggings posts_taggings ON posts_taggings.taggable_id = posts.id AND posts_taggings.taggable_type = 'Post' INNER JOIN tags posts_tags ON posts_tags.id = posts_taggings.tag_id WHERE ((posts_tags.name LIKE 'General'))  ORDER BY created_at DESC):
+  app/controllers/posts_controller.rb:29:in `index'
+  app/controllers/posts_controller.rb:26:in `index'
+
+Rendering /home/dangt85/rails_apps/danielgonzalez/public/500.html (500 Internal Server Error)
+
+
+Processing HomeController#index (for 75.101.172.6 at 2010-02-28 02:55:41) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 32ms (View: 32, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ContactsController#new (for 75.101.172.6 at 2010-02-28 02:56:11) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 11ms (View: 11, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing PostsController#index (for 75.101.172.6 at 2010-02-28 02:56:11) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 55ms (View: 11, DB: 43) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 75.101.172.6 at 2010-02-28 02:56:48) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 174.129.106.64 at 2010-02-28 05:16:21) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 37ms (View: 16, DB: 20) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 75.101.254.111 at 2010-02-28 05:27:35) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 61ms (View: 36, DB: 23) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 60.217.248.138 at 2010-02-28 08:25:31) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 34ms (View: 17, DB: 15) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing PostsController#index (for 60.217.248.138 at 2010-02-28 08:25:34) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 108ms (View: 15, DB: 92) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing PostsController#index to rss (for 60.217.248.81 at 2010-02-28 08:25:37) [GET]
+Rendering posts/index
+Completed in 105ms (View: 104, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts.rss]
+
+
+Processing HomeController#index (for 60.217.248.83 at 2010-02-28 08:25:44) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing ProjectsController#index (for 60.217.248.83 at 2010-02-28 08:25:46) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ContactsController#new (for 60.217.248.155 at 2010-02-28 08:25:49) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Completed in 13ms (View: 13, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/contact]
+
+
+Processing ProjectsController#index (for 60.217.248.152 at 2010-02-28 08:25:53) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 14ms (View: 11, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]
+
+
+Processing ProjectsController#index (for 60.217.248.137 at 2010-02-28 08:25:57) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing HomeController#index (for 64.255.180.67 at 2010-02-28 11:28:38) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 5751ms (View: 5345, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-02-28 14:00:35) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 965ms (View: 956, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:20:56) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 2384ms (View: 2361, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-03-01 05:22:19) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 13799ms (View: 10463, DB: 1629) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 91.195.231.40 at 2010-03-01 05:25:51) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 6654ms (View: 4398, DB: 247) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:49:56) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 919ms (View: 918, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:50:36) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 1148ms (View: 1148, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:50:38) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 2088ms (View: 2045, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:50:42) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 2677ms (View: 2110, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:50:44) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 68335ms (View: 68236, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 8, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 141ms (View: 141, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 90ms (View: 89, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7ms (View: 7, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 05:51:53) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 144ms (View: 144, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-03-01 05:51:54) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 06:05:42) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 868ms (View: 867, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-03-01 06:08:39) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 570ms (View: 565, DB: 2) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 66.193.6.33 at 2010-03-01 07:52:49) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 1654ms (View: 1487, DB: 163) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 66.193.6.33 at 2010-03-01 07:53:00) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 16ms (View: 13, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing HomeController#index (for 201.208.12.163 at 2010-03-01 13:17:50) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 19ms (View: 19, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/]
+
+
+Processing PostsController#index (for 201.208.12.163 at 2010-03-01 13:18:17) [GET]
+Rendering template within layouts/application
+Rendering posts/index
+Completed in 37ms (View: 11, DB: 25) | 200 OK [http://www.danielgonzalez.com.ve/posts]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-03-01 13:18:29) [GET]
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 26ms (View: 24, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-03-01 13:18:36) [GET]
+  Parameters: {"page"=>"2"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=2]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-03-01 13:18:50) [GET]
+  Parameters: {"page"=>"3"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=3]
+
+
+Processing ProjectsController#index (for 201.208.12.163 at 2010-03-01 13:19:00) [GET]
+  Parameters: {"page"=>"1"}
+Rendering template within layouts/application
+Rendering projects/index
+Completed in 13ms (View: 10, DB: 1) | 200 OK [http://www.danielgonzalez.com.ve/portfolio?page=1]

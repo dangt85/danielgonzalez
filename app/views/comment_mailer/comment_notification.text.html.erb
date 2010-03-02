@@ -1,0 +1,9 @@
+<cite>
+  <%= mail_to(@comment.author_email, @comment.author_name, :encode => 'hex') %> says:<br />
+  <span class="comment-data">
+    <%= @comment.created_at.to_s(:short_ordinal) %>
+  </span>
+</cite>
+<div class="comment-text">
+  <%= simple_format(h(@comment.content)) %>
+</div>
