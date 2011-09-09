@@ -1,0 +1,12 @@
+<% content_for :head do %>
+  <%= javascript_include_tag "tweets" %>
+<% end %>
+
+<h1>Recent Tweets</h1>
+
+<div id="tweets">
+  <%= render 'tweets' %>
+</div>
+
+<p id="load"><%= link_to 'Show more', '' %></p>
+<p id="loading" style="display: none;"><%= image_tag 'spinner.gif', :alt => "spinner", :title => 'loading more tweets...' %></p>

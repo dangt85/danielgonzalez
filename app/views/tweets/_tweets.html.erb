@@ -1,0 +1,6 @@
+<% @tweets.each do |tweet| %>
+  <div class="hentry">
+    <b><%= Date.parse(tweet.created_at) %></b><br />
+    <%= markdown(tweet.text) %>
+  </div>
+<% end %>
